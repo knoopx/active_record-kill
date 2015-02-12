@@ -8,7 +8,6 @@ Gem::Specification.new do |spec|
   spec.authors = ["Victor Martinez"]
   spec.email = ["knoopx@gmail.com"]
   spec.summary = %q{Kill active connections before dropping databases}
-  spec.description = %q{Kill active connections before dropping databases}
   spec.homepage = "http://github.com/knoopx/active_record-kill"
   spec.license = "MIT"
 
